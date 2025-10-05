@@ -7,6 +7,8 @@ export const App = () => {
       
     >
       {/* <h1>VELIKOBRITANIA.COM.UA</h1> */}
+
+      <h2>Pedal to the Top</h2>
     
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="1111.000000px" height="486.000000px" viewBox="0 0 1713.000000 486.000000"
