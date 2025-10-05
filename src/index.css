@@ -1,12 +1,24 @@
 @import-normalize; /* bring in normalize.css styles */
-
+html {
+background-color: #001440;
+}
 body {
+  
+    background: linear-gradient(0deg,#001440, rgba(4, 4, 4, 0.673), black, rgba(4, 4, 4, 0.474), #001440);
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: #001440;
+
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Comfortaa, sans-serif;
+
+}
+
+h2 {
+display: flex;
+justify-content: center;
 }
 
 code {

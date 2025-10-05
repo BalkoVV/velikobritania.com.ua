@@ -1,15 +1,6 @@
-import React from "react";
-// import logoVB from ../images/logoVB;
 
-export const App = () => {
-  return (
-    <div
-      
-    >
-      {/* <h1>VELIKOBRITANIA.COM.UA</h1> */}
-    
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="1111.000000px" height="486.000000px" viewBox="0 0 1713.000000 486.000000"
+ width="1713.000000pt" height="486.000000pt" viewBox="0 0 1713.000000 486.000000"
  preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,486.000000) scale(0.100000,-0.100000)"
@@ -115,9 +106,3 @@ m121 -306 c33 -75 64 -145 68 -155 6 -16 -5 -17 -131 -17 -76 0 -135 4 -133 9
 -66 71 -147z"/>
 </g>
 </svg>
-<h2>coming soon...</h2>
-
-
-    </div>
-  );
-};
