@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/app-template-bvv/static/css/main.cb5df8f6.css",
-    "main.js": "/app-template-bvv/static/js/main.27b6cf9c.js",
+    "main.css": "/app-template-bvv/static/css/main.2cd57df7.css",
+    "main.js": "/app-template-bvv/static/js/main.9ca29145.js",
     "index.html": "/app-template-bvv/index.html",
-    "main.cb5df8f6.css.map": "/app-template-bvv/static/css/main.cb5df8f6.css.map",
-    "main.27b6cf9c.js.map": "/app-template-bvv/static/js/main.27b6cf9c.js.map"
+    "main.2cd57df7.css.map": "/app-template-bvv/static/css/main.2cd57df7.css.map",
+    "main.9ca29145.js.map": "/app-template-bvv/static/js/main.9ca29145.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5df8f6.css",
-    "static/js/main.27b6cf9c.js"
+    "static/css/main.2cd57df7.css",
+    "static/js/main.9ca29145.js"
   ]
 }

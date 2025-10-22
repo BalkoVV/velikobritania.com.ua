@@ -1,21 +1,22 @@
 import React from "react";
+import MasterContainer from "./MasterContainer/MasterContainer";
 // import logoVB from ../images/logoVB;
 
 export const App = () => {
   return (
-    <div
-      
-    >
+    // <div
+     <MasterContainer>
+    {/* > */}
       {/* <h1>VELIKOBRITANIA.COM.UA</h1> */}
 
-      <h2>Pedal to the Top</h2>
+      <h2>Pedal to the Toppp</h2>
     
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="1111.000000px" height="486.000000px" viewBox="0 0 1713.000000 486.000000"
  preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,486.000000) scale(0.100000,-0.100000)"
-fill="#001440" stroke="none">
+fill="#002e55" stroke="none">
 <path d="M6713 3608 c-13 -6 -25 -19 -28 -29 -7 -23 -23 -24 -49 -4 -32 24
 -81 19 -105 -11 -11 -14 -21 -30 -24 -37 -2 -8 -14 -6 -39 6 -52 25 -100 4
 -110 -48 -4 -21 -17 -22 -70 -9 -33 8 -78 -32 -78 -70 0 -27 -17 -38 -42 -25
@@ -119,7 +120,7 @@ m121 -306 c33 -75 64 -145 68 -155 6 -16 -5 -17 -131 -17 -76 0 -135 4 -133 9
 </svg>
 <h2>coming soon...</h2>
 
-
-    </div>
+</MasterContainer> 
+    // </div>
   );
 };

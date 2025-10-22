@@ -6,12 +6,13 @@ background-color: #001440;
 }
 body {
   
-    background: linear-gradient(0deg,#001440, rgba(4, 4, 4, 0.673), black, rgba(4, 4, 4, 0.474), #001440);
+    background: linear-gradient(0deg,#001440, #002e55, black, rgba(4, 4, 4, 0.474), #001440);
+    background: black;
     height: 100vh;
     display: grid;
     align-items: center;
     justify-content: center;
-    color: #000000;
+    color: #5c4000c0;
 
   margin: 0;
   font-family: Comfortaa, sans-serif;
